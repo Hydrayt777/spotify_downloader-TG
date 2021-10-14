@@ -16,7 +16,7 @@ spotifyy = spotipy.Spotify(
 genius = lyricsgenius.Genius('biZZReO7F98mji5oz3cE0FiIG73Hh07qoXSIzYSGNN3GBsnY-eUrPAVSdJk_0_de')
 
 if 'BOT_TOKEN' in os.environ:
-    token = os.environ.get('BOT_TOKEN')
+    token = os.environ.get('2097190143:AAERocmrJsr-dPS_6TqgEZrWK2higcCjAu8')
 else:
     token = 'token bot'
 if 'CHANNEL_CHAT_ID' in os.environ:
